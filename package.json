@@ -11,5 +11,6 @@
     "type": "git",
     "url": "https://idontknow/todo.git"
   },
-  "author": "Arhaan"
+  "author": "Arhaan",
+  "description": "this is a simple webservice for npm management. I'll be working on how to mangage npm packages here."
 }
