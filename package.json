@@ -14,5 +14,6 @@
   "author": "Arhaan",
   "description": "this is a simple webservice for npm management. I'll be working on how to mangage npm packages here.",
   "keywords": ["freecodecamp", "npm", "management", "api"],
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "version": "0.1"
 }
